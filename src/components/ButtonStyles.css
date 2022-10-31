@@ -1,0 +1,36 @@
+
+.signin-button{
+    margin-top:30px;
+    font-size: 30px;
+}
+
+.signout-button{
+    margin-top:30px;
+    font-size: 30px;
+}
+.small-button{
+    font-size: 16px;
+    margin-left: 0;
+}
+
+
+@media screen and (max-width: 600px) {
+   
+    .signin-button{
+        margin-top:30px;
+        font-size: 16px;
+    }
+
+ 
+    .signout-button{
+        margin-top:30px;
+        font-size: 16px;
+    } 
+    
+    .small-button{
+        font-size: 12px;
+        margin: 0
+    }
+    
+    
+  }
